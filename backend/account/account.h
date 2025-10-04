@@ -3,6 +3,7 @@
 
 void showMenu(string accountId);
 double getBalance(string accountId);
+void getProfileDetails(string userid);
 void logout();
 
 #endif
