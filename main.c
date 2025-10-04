@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
 
   printf("Digital Banking System starting...\n");
